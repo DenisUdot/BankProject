@@ -1,0 +1,1 @@
+java -jar package-20170606.jar data/test.dat
